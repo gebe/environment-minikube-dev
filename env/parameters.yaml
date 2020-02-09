@@ -1,0 +1,15 @@
+adminUser:
+  password: local:minikube/adminUser:password
+  username: admin
+docker:
+  email: gerd.beyer@gmx.de
+  password: local:minikube/docker:password
+  url: https://index.docker.io/v1/
+  username: gebe
+enableDocker: true
+pipelineUser:
+  email: gerd.beyer@gmx.de
+  token: local:minikube/pipelineUser:token
+  username: gebe
+prow:
+  hmacToken: local:minikube/prow:hmacToken
