@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: gebe
-  repo: gs-spring-boot
-  url: https://github.com/gebe/gs-spring-boot.git
+  repo: jx-quickstart-sb-http-gradle
+  url: https://github.com/gebe/jx-quickstart-sb-http-gradle.git
   version: ""
   versionURL: ""

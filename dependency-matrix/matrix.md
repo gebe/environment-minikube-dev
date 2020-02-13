@@ -2,4 +2,4 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[gebe/gs-spring-boot](https://github.com/gebe/gs-spring-boot.git) |  | []() | 
+[gebe/jx-quickstart-sb-http-gradle](https://github.com/gebe/jx-quickstart-sb-http-gradle.git) |  | []() | 
