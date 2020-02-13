@@ -17,7 +17,7 @@ cluster:
   registry: docker.io
 environments:
 - ingress:
-    domain: 192.168.99.116.nip.io
+    domain: 192.168.99.119.nip.io
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
@@ -48,7 +48,7 @@ environments:
   repository: environment-minikube-production
 gitops: true
 ingress:
-  domain: 192.168.99.116.nip.io
+  domain: 192.168.99.119.nip.io
   externalDNS: false
   namespaceSubDomain: -jx.
   tls:
