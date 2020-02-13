@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: gebe
+    provider: github
+    repository: jx-quickstart-sb-http-gradle
+  name: gebe-jx-quickstart-sb-http-gradle
+spec:
+  description: Imported application for gebe/jx-quickstart-sb-http-gradle
+  httpCloneURL: https://github.com/gebe/jx-quickstart-sb-http-gradle.git
+  org: gebe
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jx-quickstart-sb-http-gradle
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/gebe/jx-quickstart-sb-http-gradle.git

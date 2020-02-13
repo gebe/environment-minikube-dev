@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: gebe
+    provider: github
+    repository: gs-spring-boot
+  name: gebe-gs-spring-boot
+spec:
+  description: Imported application for gebe/gs-spring-boot
+  httpCloneURL: https://github.com/gebe/gs-spring-boot.git
+  org: gebe
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: gs-spring-boot
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/gebe/gs-spring-boot.git
